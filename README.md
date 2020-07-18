@@ -1,5 +1,4 @@
 # github.io
-![rolling pin and dough](github.io/blob/master/images/dough1.png)
 
 Mod 1 - The Game - Tic Tac Dough!
 ### Game Description
@@ -11,5 +10,10 @@ The fight is still on, Dougie and Pizza Rat are now arguing about which dough is
 * Game play is over after each player has 3 turns
 
 ## Key Concepts
+* DOM manipulation 
 * event listeners
-* 
+* querySelector
+* innerHTML
+* arrays
+* forEach and for loops
+ 
